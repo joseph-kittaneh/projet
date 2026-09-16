@@ -6,3 +6,6 @@ def somme(a, b):
     return a + b
 # Ligne 1
 # Ligne 2
+
+def ecart_type(valeurs):
+    return 0
