@@ -4,3 +4,5 @@ def moyenne(valeurs):
 
 def somme(a, b):
     return a + b
+# Ligne 1
+# Ligne 2
