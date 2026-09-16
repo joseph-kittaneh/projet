@@ -6,3 +6,4 @@ def somme(a, b):
     return a + b
 # Ligne 1
 # Ligne 2
+bug = 1/0
